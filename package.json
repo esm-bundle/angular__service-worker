@@ -52,7 +52,7 @@
     "@angular/core": "15.2.5",
     "@angular/service-worker": "15.2.5",
     "@rollup/plugin-babel": "6.0.3",
-    "@rollup/plugin-node-resolve": "15.0.1",
+    "@rollup/plugin-node-resolve": "15.0.2",
     "concurrently": "8.0.1",
     "husky": "8.0.3",
     "karma": "6.4.1",

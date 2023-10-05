@@ -51,7 +51,7 @@
     "@angular/compiler-cli": "15.2.10",
     "@angular/core": "15.2.10",
     "@angular/service-worker": "15.2.10",
-    "@rollup/plugin-babel": "6.0.3",
+    "@rollup/plugin-babel": "6.0.4",
     "@rollup/plugin-node-resolve": "15.2.1",
     "concurrently": "8.2.1",
     "husky": "8.0.3",
